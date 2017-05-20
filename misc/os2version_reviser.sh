@@ -3,7 +3,7 @@
 #
 # OS/2 Version Reviser
 #
-# Copyright (c) 2011-2014, Yasunori Yusa <yascentur at gmail.com>
+# Copyright (c) 2011-2014, Yasunori Yusa <yyusa at rs.tus.ac.jp>
 # All rights reserved.
 #
 # This script is to revise OS/2 Version of Ricty.
